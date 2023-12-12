@@ -1,0 +1,25 @@
+{
+  "name": "ada",
+  "age": "15",
+  "sex": "女",
+  "url": "https://www.baidu.com",
+  "address": {
+    "street": "文苑路",
+    "city": "南京",
+    "country": "中国"
+  },
+  "links": [
+    {
+      "name": "狂神哔哩哔哩vue",
+      "url": "https://www.bilibili.com/video/BV18E411a7mC?p=9"
+    },
+    {
+      "name": "baidu",
+      "url": "https://www.baidu.com"
+    },
+    {
+      "name": "百度翻译",
+      "url": "https://fanyi.baidu.com/"
+    }
+  ]
+}
